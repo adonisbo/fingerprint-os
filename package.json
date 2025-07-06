@@ -1,0 +1,15 @@
+{
+  "name": "fingerprint-os",
+  "version": "1.0.0",
+  "description": "我的指纹操作系统项目的核心API与自动化中心",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ua-parser-js": "^2.0.4"
+  }
+}
